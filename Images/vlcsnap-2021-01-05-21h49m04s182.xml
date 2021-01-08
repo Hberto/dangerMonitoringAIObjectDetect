@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
-	<filename>vlcsnap-2021-01-05-21h58m15s476.png</filename>
-	<path>C:\Users\Herberto\Desktop\UNI\4.Semester\EML\Screenshots\vlcsnap-2021-01-05-21h58m15s476.png</path>
+	<filename>vlcsnap-2021-01-05-21h49m04s182.png</filename>
+	<path>C:\Users\Herberto\Desktop\UNI\4.Semester\EML\Screenshots\vlcsnap-2021-01-05-21h49m04s182.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>cyclist</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>242</xmin>
-			<ymin>190</ymin>
-			<xmax>332</xmax>
-			<ymax>233</ymax>
+			<xmin>188</xmin>
+			<ymin>239</ymin>
+			<xmax>284</xmax>
+			<ymax>453</ymax>
 		</bndbox>
 	</object>
 </annotation>

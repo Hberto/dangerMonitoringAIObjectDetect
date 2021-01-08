@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
-	<filename>vlcsnap-2021-01-05-21h58m15s476.png</filename>
-	<path>C:\Users\Herberto\Desktop\UNI\4.Semester\EML\Screenshots\vlcsnap-2021-01-05-21h58m15s476.png</path>
+	<filename>vlcsnap-2021-01-05-21h52m01s009.png</filename>
+	<path>C:\Users\Herberto\Desktop\UNI\4.Semester\EML\Screenshots\vlcsnap-2021-01-05-21h52m01s009.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>242</xmin>
-			<ymin>190</ymin>
-			<xmax>332</xmax>
-			<ymax>233</ymax>
+			<xmin>164</xmin>
+			<ymin>195</ymin>
+			<xmax>254</xmax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 </annotation>
